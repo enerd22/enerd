@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<meta name="viewport" content="width-device-width", initial-scale=1">
+    <title> Global Running Network </title>
+    <body>
+        <style>
+            body{
+                background-color: #FFFFFF;
+                font-family: "Times New Roman"
+            }
+            p{
+                font-family: ;
+            }
+            h1{
+                text-align: center;
+            }
+            img{
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width:50%;
+            }
+        </style>
+
+        <div style="background-color:#C2B3B3;color:white;padding:20px;"><h1>My Running Blog</h1></div>
+
+        <img src="runningxcle.JPEG" alt="me running" style="width:400px; height:300px;" class="center">
+
+        <h3> October 29, 2019 </h3>
+
+          <p> I am officially starting a blog about my running.  I have wanted one for a while, but I am finally committing to see it through.  Right now I have taken the last two days off and then I'm back to training.  I have been training for about 6 months non stop and my Cross Country season has come to an end, but I still am running races with my buds.  I hope I survive the next month of all out tapering. </p>
+    </body>
+</html>
